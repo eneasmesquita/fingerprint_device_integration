@@ -21,8 +21,8 @@ Segue os links para instalação do JDK da Oracle.
 
 Segue os links para download e acesso ao manual de instalação do SDK da Fingertech.
 
-- [Download SDK Windows](http://fingertech.com.br/download/eNBioBSP_v5.2.0.6_Windows.zip) | [Manual de Instalação no Windows](https://)
-- [Download SDK Linux](http://fingertech.com.br/download/eNBioBSP-SDK-linux-v5.3.0.1.zip) | [Manual de Instalação no Linux](https://)
+- [Download SDK Windows](http://fingertech.com.br/download/eNBioBSP_v5.2.0.6_Windows.zip)
+- [Download SDK Linux](http://fingertech.com.br/download/eNBioBSP-SDK-linux-v5.3.0.1.zip)
 
 ## 4. Execução de script
 
