@@ -12,10 +12,10 @@ Segue os links para os drivers mais recentes do leitor biométrico modelo Hamste
 
 **OBS:** essa etapa é opcional caso já tenha uma JDK instalada.
 
-Segue os links para instalação .
+Segue os links para instalação do JDK da Oracle.
 
-- [Download JDK Windows](https://) | [Manual de Instalação no Windows](https://)
-- [Download JDK Linux](https://) | [Manual de Instalação no Linux](https://)
+- [Download JDK Windows](https://www.oracle.com/java/technologies/downloads/#jdk22-windows)
+- [Download JDK Linux](https://www.oracle.com/java/technologies/downloads/#jdk22-linux) 
 
 ## 3. Instalação do SDK
 
