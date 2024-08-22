@@ -18,7 +18,7 @@ Segue os links para instalação do JDK da Oracle.
 
 ## 3. Instalação do SDK
 
-Segue os links para download e acesso ao manual de instalação do SDK da Fingertech.
+Segue os link do fabricante para download do SDK Nitgen da Fingertech.
 
 - [Listagem de SDKs por sistema operacional e códigos de exemplo por linguagem de programação](http://suporte.fingertech.com.br/devs-download-sdk/)
 
