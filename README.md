@@ -22,6 +22,18 @@ Segue os link do fabricante para download do SDK Nitgen da Fingertech.
 
 - [Listagem de SDKs por sistema operacional e códigos de exemplo por linguagem de programação](http://suporte.fingertech.com.br/devs-download-sdk/)
 
-## 4. Execução de script
+## 4. Execução de arquivo JAR
 
-...
+Faça o download do arquivo `restAPIhamsterIII.zip` e descompacte em um diretório de sua preferência.
+
+Por meio de `CLI`, vá até o diretório do arquivo `JAR` descompactado e digite o comando:
+
+``` bash
+java -jar HamsterIIIRESTAPI-0.0.1-SNAPSHOT.jar
+```
+
+Um servidor web autocontido será iniciado e responderá apenas requisições `GET` por meio da URI `localhost:1989/fingerprint`, devolvendo uma resposta em formato `JSON`, contendo três campos:
+
+- `ID`: identificador do dedo em que foi verificada a impressão digital;
+- `name`: descrição de qual dedo foi verificada a impressão digital;
+- `fingerprint`: os dados em formato de texto da impressão digital recolhida.
