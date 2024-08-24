@@ -1,4 +1,4 @@
-# Integração de Leitor Biométrico
+# Integração de Leitor Biométrico (Beta Version)
 Passos para instalar e utilzar um leitor biométrico para transferir texto FIR à um navegador de internet
 
 ## 1. Instalação do Driver
