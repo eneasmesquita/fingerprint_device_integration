@@ -9,7 +9,7 @@ Segue o link do fabricante para os drivers mais recentes do leitor biométrico m
 
 ## 2. Instalação do JDK
 
-**OBS:** essa etapa é opcional caso já tenha uma JDK instalada.
+**OBS:** essa etapa é opcional caso já tenha um JDK instalado.
 
 Segue os links para instalação do JDK da Oracle.
 
